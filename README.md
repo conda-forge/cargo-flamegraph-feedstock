@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/cargo-flamegrap
 
 Home: https://github.com/flamegraph-rs/flamegraph/
 
-Package license: MIT
+Package license: MIT OR Apache-2.0
 
 Summary: A Rust-powered flamegraph generator with additional support for Cargo projects.
 
