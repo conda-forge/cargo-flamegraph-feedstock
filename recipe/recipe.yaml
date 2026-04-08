@@ -1,6 +1,6 @@
 context:
   name: cargo-flamegraph
-  version: "0.6.11"
+  version: "0.6.12"
 
 package:
   name: ${{ name|lower }}
@@ -8,7 +8,7 @@ package:
 
 source:
   url: "https://github.com/flamegraph-rs/flamegraph/archive/v${{ version }}.tar.gz"
-  sha256: 371f81e674abe70cdaf3478d7d6ab04cee0b5af174767a858f45c5c42206089e
+  sha256: 3b1158d30a5dd3496b271d5f55da47558cd84dd5ff7e11dbd67c2f6c51a3499e
 
 build:
   number: 0
